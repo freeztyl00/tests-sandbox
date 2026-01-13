@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 first commit in master branch 
 
 extra 1
+=======
+Improvement made in feature branch
+>>>>>>> a99d4bd (Improvement made in feature branch)

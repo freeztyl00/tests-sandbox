@@ -1,1 +1,2 @@
 second commit in master branch
+Another improvement made in feature branch
